@@ -125,7 +125,7 @@
 		"fast-glob": "3.3.0",
 		"happy-dom": "10.0.3",
 		"micromatch": "4.0.5",
-		"msw": "1.2.2",
+		"msw": "1.3.2",
 		"msw-storybook-addon": "1.8.0",
 		"prettier": "3.0.0",
 		"react": "18.2.0",
