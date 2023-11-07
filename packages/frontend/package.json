@@ -122,7 +122,7 @@
 		"eslint": "8.44.0",
 		"eslint-plugin-import": "2.27.5",
 		"eslint-plugin-vue": "9.15.1",
-		"fast-glob": "3.3.0",
+		"fast-glob": "3.3.2",
 		"happy-dom": "10.0.3",
 		"micromatch": "4.0.5",
 		"msw": "1.2.2",
